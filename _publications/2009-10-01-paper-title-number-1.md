@@ -22,3 +22,5 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 6.	Yuyuan Li, Chaochao Chen, Xiaolin Zheng*, Yan Wang, Biao Gong, REFER: Randomized Online Factor Selection Framework for Portfolio Management. Expert Systems With Applications 223 (2023) 119837 (SCI一区, IF 8.67)
 7.	Zhongxuan Han, Chaochao Chen*, Xiaolin Zheng, Weiming Liu, Jun Wang, Wenjie Cheng, Yuyuan Li. In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems. ACM MM 2023 (CCF A)
 8.	Siteng Huang, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, Yuyuan Li, Donglin Wang*, VoP: Text-Video Coopperative Prompt Tuning for Cross-Modal Retrieval. CVPR 2023 (CCF A)
+
+Zhongxuan Han, Chaochao Chen, Xiaolin Zheng, Meng Li, Weiming Liu, Binhui Yao, **Yuyuan Li**, Jianwei Yin. Intra- and Inter-Group Optimal Transport for User-Oriented Fairness in Recommender Systems. AAAI 2024
