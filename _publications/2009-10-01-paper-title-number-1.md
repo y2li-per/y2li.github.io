@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -14,7 +14,7 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-1.	Yuyuan Li, Chaochao Chen*, Yizhao Zhang, Weiming Liu, Lingjuan Lyu, Xiaolin Zheng, Dan Meng, Jun Wang. UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition. NeurIPS 2023 (CCF A)
+Yuyuan Li, Chaochao Chen*, Yizhao Zhang, Weiming Liu, Lingjuan Lyu, Xiaolin Zheng, Dan Meng, Jun Wang. UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition. NeurIPS 2023 (CCF A)
 2.	Yuyuan Li, Chaochao Chen*, Xiaolin Zheng, Yizhao Zhang, Zhongxuan Han, Dan Meng, Jun Wang. Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems. ACM MM 2023 (CCF A)
 3.	Yuyuan Li, Chaochao Chen, Xiaolin Zheng*, Yizhao Zhang, Biao Gong, Jun Wang, Selective and Collaborative Influence Function for Efficient Recommendation Unlearning. Expert Systems With Applications 234 (2023) 121025（SCI一区, IF 8.67）
 4.	Yuyuan Li, Chaochao Chen, Xiaolin Zheng, Junlin Liu, Jun Wang, Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation. Knowledge-based Systems 283 (2024) 111124 (SCI一区, IF 8.14)
