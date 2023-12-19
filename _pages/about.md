@@ -8,37 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an associate professor in [School of Communication Engineering](https://comm.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My research interests includes trust-worthy AI, machine unlearning, unlearnable examples. I earned my PhD from Zhejiang University in 2023.
+I'm currently an associate professor in [School of Communication Engineering](https://comm.hdu.edu.cn/main.htm), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My research interests includes trust-worthy AI, machine unlearning, unlearnable examples. I earned my PhD from Zhejiang University in 2023. I am also interested in Tennis (USTA 3.5+).
 
-News
+Publications
 ======
-1. AP in 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+2024
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Zhongxuan Han, Chaochao Chen, Xiaolin Zheng, Meng Li, Weiming Liu, Binhui Yao, **Yuyuan Li**, Jianwei Yin. Intra- and Inter-Group Optimal Transport for User-Oriented Fairness in Recommender Systems. AAAI 2024.
+* **Yuyuan Li**, Chaochao Chen, Xiaolin Zheng, Junlin Liu, Jun Wang, Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation. Knowledge-Based Systems 283 (2024) 111124.
 
-Create content & metadata
+2023
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* **Yuyuan Li**, Chaochao Chen*, Yizhao Zhang, Weiming Liu, Lingjuan Lyu, Xiaolin Zheng, Dan Meng, Jun Wang. UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition. NeurIPS 2023.
+* **Yuyuan Li**, Chaochao Chen*, Xiaolin Zheng, Yizhao Zhang, Zhongxuan Han, Dan Meng, Jun Wang. Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems. ACM MM 2023.
+* **Yuyuan Li**, Chaochao Chen, Xiaolin Zheng*, Yizhao Zhang, Biao Gong, Jun Wang. Selective and Collaborative Influence Function for Efficient Recommendation Unlearning. Expert Systems With Applications 234 (2023) 121025.
+* **Yuyuan Li**, Chaochao Chen, Xiaolin Zheng*, Yan Wang, Biao Gong. REFER: Randomized Online Factor Selection Framework for Portfolio Management. Expert Systems With Applications 223 (2023) 119837.
+* Zhongxuan Han, Chaochao Chen*, Xiaolin Zheng, Weiming Liu, Jun Wang, Wenjie Cheng, **Yuyuan Li**. In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems. ACM MM 2023.
+* Siteng Huang, Biao Gong, Yulin Pan, Jianwen Jiang, Yiliang Lv, **Yuyuan Li**, Donglin Wang*. VoP: Text-Video Coopperative Prompt Tuning for Cross-Modal Retrieval. CVPR 2023.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+2022
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **Yuyuan Li**, Xiaolin Zheng*, Chaochao Chen, Jiawei Wang, Shuai Xu. Exponential Gradient with Momentum for Online Portfolio Selection. Expert Systems With Applications 187 (2022) 115889.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Patents
+======
+* The invention relates to a method and a device for updating a service processing model based on user privacy data | 基于用户隐私数据的业务处理模型更新方法及装置
+* The invention relates to a recommendation model generation method and a recommendation model generation device based on a privacy protection machine forgetting algorithm | 基于隐私保护机器遗忘算法的推荐模型生成方法及装置
+* Recommendation model updating method, system and device for protecting user privacy | 保护用户隐私的推荐模型更新方法、系统及装置
