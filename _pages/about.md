@@ -34,6 +34,6 @@ Publications
 
 Patents
 ======
-* The invention relates to a method and a device for updating a service processing model based on user privacy data | 基于用户隐私数据的业务处理模型更新方法及装置
-* The invention relates to a recommendation model generation method and a recommendation model generation device based on a privacy protection machine forgetting algorithm | 基于隐私保护机器遗忘算法的推荐模型生成方法及装置
-* Recommendation model updating method, system and device for protecting user privacy | 保护用户隐私的推荐模型更新方法、系统及装置
+* The invention relates to a method and a device for updating a service processing model based on user privacy data. 基于用户隐私数据的业务处理模型更新方法及装置
+* The invention relates to a recommendation model generation method and a recommendation model generation device based on a privacy protection machine forgetting algorithm. 基于隐私保护机器遗忘算法的推荐模型生成方法及装置
+* Recommendation model updating method, system and device for protecting user privacy. 保护用户隐私的推荐模型更新方法、系统及装置
