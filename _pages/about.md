@@ -15,6 +15,7 @@ Publications
 
 2024
 ------
+* Biao Gong, Siteng Huang, Yutong Feng, Shiwei Zhang, **Yuyuan Li**, Yu Liu. Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation. CVPR 2024.
 * Zhongxuan Han, Chaochao Chen, Xiaolin Zheng, Meng Li, Weiming Liu, Binhui Yao, **Yuyuan Li**, Jianwei Yin. Intra- and Inter-Group Optimal Transport for User-Oriented Fairness in Recommender Systems. AAAI 2024.
 * **Yuyuan Li**, Chaochao Chen, Xiaolin Zheng, Junlin Liu, Jun Wang, Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation. Knowledge-Based Systems 283 (2024) 111124.
 
